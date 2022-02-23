@@ -1,1 +1,2 @@
 # odin-recipes
+Making a recipe website by following theodinproject's learning tutorials. The main goal of this is to level up my HTML and CSS skills. I may even combine my bartending job with this project by turning it into a collection of cocktail recipes I make at work.
